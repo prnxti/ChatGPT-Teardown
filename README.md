@@ -1,8 +1,9 @@
-A product teardown of ChatGPT
+**A product teardown of ChatGPT**
 
 This teardown takes a critical — yet structured — look at ChatGPT as a product and a brand. It presents a comprehensive teardown of ChatGPT, focusing on its development, business model, user experience, market positioning, and areas for future growth. 
 
-Contents of the Teardown :
+**Contents of the Teardown** :
+
 Overview of Generative AI: A concise explanation of the technologies behind ChatGPT, including transformers and large language models.
 
 ChatGPT Product Analysis: Details on its core features, pricing models, development history, and platform capabilities.
